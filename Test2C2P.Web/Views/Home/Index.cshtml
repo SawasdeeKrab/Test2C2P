@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="col-md-10">
+    <div class="input-group">
+        <div class="row">
+            <form action="/api/Upload" method="post" enctype="multipart/form-data">
+                <input id="somefile" name="somefile" type="file" />
+                <input type="submit" value="Submit" />
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
