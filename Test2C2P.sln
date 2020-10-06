@@ -14,8 +14,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Setup", "Setup", "{1ADC592A-9F5A-4DE0-B197-E24123E65D75}"
 	ProjectSection(SolutionItems) = preProject
 		CreateDb.sql = CreateDb.sql
-		..\..\..\2C2P\Payment.csv = ..\..\..\2C2P\Payment.csv
-		..\..\..\2C2P\Payment.xml = ..\..\..\2C2P\Payment.xml
+		Payment.csv = Payment.csv
+		Payment.xml = Payment.xml
 		URLTestAPis.txt = URLTestAPis.txt
 	EndProjectSection
 EndProject
