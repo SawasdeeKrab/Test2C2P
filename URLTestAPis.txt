@@ -1,0 +1,13 @@
+
+Get all transactions
+https://localhost:44361/api/Payment/GetAll
+
+Get by currency
+https://localhost:44361/api/Payment/GetByCurrency?currency=USD
+
+Get by start date and end date
+https://localhost:44361/api/Payment/GetByDateRange?startDate=2019-01-01&endDate=2020-12-12
+
+Get by status
+https://localhost:44361/api/Payment/GetByStatus?status=Approved
+
